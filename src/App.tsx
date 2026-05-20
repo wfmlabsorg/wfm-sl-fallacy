@@ -595,6 +595,10 @@ export default function App() {
             Loosening your SL target produces only 3-8% staffing reduction for mid-size centers,
             while hidden costs typically exceed savings — making this trade NPV-negative.
           </p>
+          <p className="text-amber-400/70 text-xs mt-2 max-w-2xl mx-auto font-mono uppercase tracking-wider">
+            Illustrative only — to model accurately, build occupancy assumptions back into the capacity plan
+            with assumptions for increased AHT, absenteeism, attrition and CLV erosion
+          </p>
         </div>
 
         {/* Input Panel */}
